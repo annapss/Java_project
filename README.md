@@ -1,6 +1,8 @@
 # Projeto WEB em Java
-Tecnologias utilizadas:
+Tecnologia utilizada no Backend:
 <img align="center" height="70" weight="70" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg" />
+
+Tecnologias utilizadas no Frontend:
 <img align="center"  height="70" width="70" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/css3-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
