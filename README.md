@@ -1,4 +1,7 @@
 # Projeto WEB em Java
+###Nosso site é um projeto feito para a aula de Programação Orientada a Objetos com o intuito de informar sobre mulheres que revolucionaram suas áreas de trabalho.
+/
+/
 Tecnologia utilizada no Back-end:
 <img align="center" height="70" weight="70" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg" />
 \
