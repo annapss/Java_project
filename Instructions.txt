@@ -1,0 +1,16 @@
+* Instruções gerais de como obter o projeto em sua máquina sem cloná-lo*
+
+- Instale o Eclipse IDE for Enterprise Java and Web Developers  e o Tomcat
+- Com os devidos programas instalados, crie um workspace no Eclipse
+- Configure o Server com a versão do Tomcat que baixou
+- Crie um Dynamic Web Project
+- Comece a colar os arquivos.html do repositório na pasta webapp que é gerada automaticamente ao criar o projto (se essa pasta estiver como WebContent, renomeie para webapp)
+- Copie os diretórios "css" e "images" em webapp também
+- Copie o arquivo.txt para webapp
+- Não copiei os seguintes diretórios: WEB-INF e META-INF
+- Crie nesse projeto um Servlet
+- Tendo criado o Servlet, crie nele duas packages: "br.com.site.servlets" e "br.com.site.utils"
+- Em "br.com.site.servlets" crie um arquivo.java chamado ServNovo
+- No repositório, em MulheresCiencia2/WEB-INF/classes/br/com/site/servlets/ServNovo.java, copie o código para o arquivo ServNovo.java que você acabou de criar
+- Em "br.com.site.utils" crie um arquivo.java chamado Cadastro
+- No repositório, em MulheresCiencia2/WEB-INF/classes/br/com/site/utils/Cadastro.java, copie o código para o arquivo Cadastro.java que você acabou de criar
