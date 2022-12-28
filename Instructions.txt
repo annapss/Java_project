@@ -1,4 +1,4 @@
-* Instruções gerais de como obter o projeto em sua máquina sem cloná-lo*
+*Instruções gerais de como obter o projeto em sua máquina sem cloná-lo*
 
 - Instale o Eclipse IDE for Enterprise Java and Web Developers  e o Tomcat
 - Com os devidos programas instalados, crie um workspace no Eclipse
