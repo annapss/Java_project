@@ -8,8 +8,7 @@
 <img align="center"  height="70" width="70" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/css3-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-/
-/
+
 Para realização do projeto foram utilizados o Eclipse IDE for Enterprise Java and Web Developers e o Apache Tomcat.
 
 ## 👩🏻‍💻👩🏾‍💻 Desenvolvedoras:
