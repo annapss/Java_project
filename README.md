@@ -16,4 +16,4 @@ Para realização do projeto foram utilizados o Eclipse IDE for Enterprise Java 
 - <a href="https://github.com/annapss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Anna Paula Siqueira da Silva
 - <a href="https://github.com/luarodri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Luanda Rodrigues da Silva
 - <a href="https://github.com/annapss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Ariane Arantes dos Santos
-- <a href="https://github.com/annapss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Maria Laura Barbosa Soares
+- <a href="https://github.com/mlaurabs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Maria Laura Barbosa Soares
